@@ -1,2 +1,2 @@
 # PHP
-Atividades em PHP
+Programas em PHP POO.
